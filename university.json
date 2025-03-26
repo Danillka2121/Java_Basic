@@ -1,0 +1,66 @@
+{
+  "name": "Львівський Політехнічний Університет",
+  "head": {
+    "studentId": "Л101",
+    "firstName": "Андрій",
+    "lastName": "Мельник",
+    "middleName": "Петрович",
+    "sex": "MALE",
+    "type": "Student"
+  },
+  "faculties": [
+    {
+      "name": "Факультет Електроніки та Комп\u0027ютерної Техніки",
+      "head": {
+        "studentId": "Л102",
+        "firstName": "Софія",
+        "lastName": "Шевченко",
+        "middleName": "Олегівна",
+        "sex": "FEMALE",
+        "type": "Student"
+      },
+      "departments": [
+        {
+          "name": "Кафедра Автоматизованих Систем Управління",
+          "head": {
+            "studentId": "Л103",
+            "firstName": "Максим",
+            "lastName": "Ковальчук",
+            "middleName": "Вікторович",
+            "sex": "MALE",
+            "type": "Student"
+          },
+          "groups": [
+            {
+              "name": "АСУ-22",
+              "head": {
+                "studentId": "Л104",
+                "firstName": "Вікторія",
+                "lastName": "Ткаченко",
+                "middleName": "Анатоліївна",
+                "sex": "FEMALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "Л105",
+                  "firstName": "Олександр",
+                  "lastName": "Романенко",
+                  "middleName": "Сергійович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "Л106",
+                  "firstName": "Наталія",
+                  "lastName": "Павленко",
+                  "middleName": "Миколаївна",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
